@@ -7,7 +7,7 @@ step to run this:
 1) make sure you are in - api-crud folder in your terminal
 2) python manage.py makemigrations
 3) python manage.py migrate
-4) python manage runserver
+4) python manage.py runserver
 
 In browser type
 1) for GET request in postman : http://127.0.0.1:8000/Add_category/ 
