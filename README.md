@@ -15,6 +15,7 @@ In Browser , you can test using these api
 
 In POSTMAN , you can test using these api
 1) for GET request in postman : http://127.0.0.1:8000/Add_category/ 
-2) for post request in postman : http://127.0.0.1:8000/Add_category/ 
-3) for PUT request in postman : http://127.0.0.1:8000/Add_category/3/
-4) for delete request in postman : http://127.0.0.1:8000/Add_category/2/
+2) for GET request by ID in postman : http://127.0.0.1:8000/Add_subcategory/1/
+3) for post request in postman : http://127.0.0.1:8000/Add_category/ 
+4) for PUT request in postman : http://127.0.0.1:8000/Add_category/3/
+5) for delete request in postman : http://127.0.0.1:8000/Add_category/2/
