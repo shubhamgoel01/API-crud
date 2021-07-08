@@ -4,7 +4,7 @@ API- get, post , put ,delete
 
 step to run this:
 
-1) make sure you are in api-crud (terminal)
+1) make sure you are in - api-crud folder in your terminal
 2) python manage.py makemigrations
 3) python manage.py migrate
 4) python manage runserver
